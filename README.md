@@ -32,4 +32,4 @@ Data are not stored in this repository. Download them from OSF (https://osf.io/m
 - Region of interest (ROI) analyses from the fMRI study can be found in MATLAB files in the scripts/mri_study/neural_fmri directory 
 - Behavioural and neural analysis from the patient study can be found in scripts/lesion_patient_study
 
-Please email eleanor.holton@psy.ox.ac.uk for any questions 
+Please email eleanor.r.holton@gmail.com for any questions 
