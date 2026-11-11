@@ -32,4 +32,10 @@ Data are not stored in this repository. Download them from OSF (https://osf.io/m
 - Region of interest (ROI) analyses from the fMRI study can be found in MATLAB files in the scripts/mri_study/neural_fmri directory 
 - Behavioural and neural analysis from the patient study can be found in scripts/lesion_patient_study
 
+### License
+The code in this repository is released under the MIT License (see LICENSE), with the exception of third-party code listed below.
+
+#### Third-party code
+- `scripts/mri_study/neural_fmri/ROI_analyses/helper_scripts/shaded_error_bars/shadedErrorBar.m` was written by Rob Campbell and is distributed via MATLAB Central File Exchange. It is included here for plotting, is not covered by this repository's MIT License, and remains under its original license.
+
 Please email eleanor.r.holton@gmail.com for any questions 
