@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+
+# Data (hosted on OSF: https://osf.io/mvquk/files/a34ed)
+data/
